@@ -1,25 +1,29 @@
 //----------------------------------------------------------------------------
-// Anti-Grain Geometry - Version 2.4 
-// Copyright (C) 2002-2005 Maxim Shemanarev (McSeem)
-// Copyright (C) 2003 Hansruedi Baer (MacOS support)
-//
-// Permission to copy, use, modify, sell and distribute this software 
-// is granted provided this copyright notice appears in all copies. 
-// This software is provided "as is" without express or implied
-// warranty, and with no claim as to its suitability for any purpose.
-//
-//----------------------------------------------------------------------------
+// Anti-Grain Geometry (AGG) - Version 2.5
+// A high quality rendering engine for C++
+// Copyright (C) 2002-2006 Maxim Shemanarev
+// Copyright (C) 2003 Hansruedi Baer (MacOS support, baer@karto.baug.eth.ch)
 // Contact: mcseem@antigrain.com
 //          mcseemagg@yahoo.com
-//          http://www.antigrain.com
-//			baer@karto.baug.eth.ch
+//          http://antigrain.com
+// 
+// AGG is free software; you can redistribute it and/or
+// modify it under the terms of the GNU General Public License
+// as published by the Free Software Foundation; either version 2
+// of the License, or (at your option) any later version.
+// 
+// AGG is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+// 
+// You should have received a copy of the GNU General Public License
+// along with AGG; if not, write to the Free Software
+// Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, 
+// MA 02110-1301, USA.
 //----------------------------------------------------------------------------
 //
-// class platform_support
-//
-//----------------------------------------------------------------------------
-//
-// Note:
+// Note from Hansruedi Baer:
 // I tried to retain the original structure for the Win32 platform as far
 // as possible. Currently, not all features are implemented but the examples
 // should work properly.
